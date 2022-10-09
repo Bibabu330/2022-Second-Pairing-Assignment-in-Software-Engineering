@@ -41,4 +41,4 @@ print(student)
 for i in range(total_num):
     fp.write(str(student[i][0])+' '+str(student[i][1])+' '+str(student[i][2])+'\n')
 
-fp.close
+fp.close()
