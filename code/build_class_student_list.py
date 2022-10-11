@@ -1,12 +1,13 @@
 import copy
 import random
 
+count = 5
 student_num = 300
 absent_num = 40
 class_num = 90
 cnt_replication = [0] * student_num
 absent_80 = [] # 80%缺课的学生名单，共40人缺课
-student_message = [] 
+student_message = []
  
 def ClassStudent(absent_begin, absent_end, Class):
     cnt_class = copy.deepcopy(cnt_replication)
@@ -32,7 +33,7 @@ def ClassStudent(absent_begin, absent_end, Class):
             cnt2 += 1
     class_student = sorted(class_student, key=lambda s:s[0])
 
-    fp = open("../data/1/Class_student{}".format(Class), "w")
+    fp = open("../data/" + str(count) + "/Class_student{}".format(Class), "w")
     for i1 in range(len(class_absent)):
         fp.write(str(class_absent[i1][0]) + " " + str(class_absent[i1][1]) + " " + str(class_absent[i1][2]) + "\n")
     fp.write("\n")

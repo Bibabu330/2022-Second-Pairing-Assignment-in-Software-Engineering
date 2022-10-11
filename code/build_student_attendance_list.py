@@ -1,10 +1,11 @@
 from random import randint
 
+count = 5
 student_num = 90
 student_attendance = []
 
 def ReadClassStudent(Class):
-    with open("../data/1/Class_student{}".format(Class), "r") as f:  # 打开文件
+    with open("../data/" + str(count) + "/Class_student{}".format(Class), "r") as f:  # 打开文件
         data = f.readlines()  # 读取文件
 
     class_student = []
@@ -54,7 +55,7 @@ if __name__ == "__main__":
                     student_attendance_copy[ab][i] = 0
 
         # 输出到文件
-        fp = open("../data/1/student_attendance{}".format(Cla), "w")
+        fp = open("../data/" + str(count) + "/student_attendance{}".format(Cla), "w")
         for i in range(student_num):
             fp.write(str(class_student_copy[i][0]))
             for j in range(20):

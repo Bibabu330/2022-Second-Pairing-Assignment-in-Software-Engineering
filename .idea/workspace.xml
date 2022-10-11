@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5b9ccc8-b233-4321-a19b-0ccc25cdfcb9" name="变更" comment="" />
+    <list default="true" id="e5b9ccc8-b233-4321-a19b-0ccc25cdfcb9" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/2022-Second-Pairing-Assignment-in-Software-Engineering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/Class_studentA" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/Class_studentA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/Class_studentB" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/Class_studentB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/Class_studentC" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/Class_studentC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/Class_studentD" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/Class_studentD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/Class_studentE" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/Class_studentE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_attendanceA" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_attendanceA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_attendanceB" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_attendanceB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_attendanceC" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_attendanceC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_attendanceD" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_attendanceD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_attendanceE" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_attendanceE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_roll_callA" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_roll_callA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_roll_callB" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_roll_callB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_roll_callC" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_roll_callC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_roll_callD" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_roll_callD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1/student_roll_callE" beforeDir="false" afterPath="$PROJECT_DIR$/data/1/student_roll_callE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/3/student_roll_callA" beforeDir="false" afterPath="$PROJECT_DIR$/data/3/student_roll_callA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/3/student_roll_callB" beforeDir="false" afterPath="$PROJECT_DIR$/data/3/student_roll_callB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/3/student_roll_callC" beforeDir="false" afterPath="$PROJECT_DIR$/data/3/student_roll_callC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/3/student_roll_callD" beforeDir="false" afterPath="$PROJECT_DIR$/data/3/student_roll_callD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/3/student_roll_callE" beforeDir="false" afterPath="$PROJECT_DIR$/data/3/student_roll_callE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/4/student_roll_callA" beforeDir="false" afterPath="$PROJECT_DIR$/data/4/student_roll_callA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/4/student_roll_callB" beforeDir="false" afterPath="$PROJECT_DIR$/data/4/student_roll_callB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/4/student_roll_callC" beforeDir="false" afterPath="$PROJECT_DIR$/data/4/student_roll_callC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/4/student_roll_callD" beforeDir="false" afterPath="$PROJECT_DIR$/data/4/student_roll_callD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/4/student_roll_callE" beforeDir="false" afterPath="$PROJECT_DIR$/data/4/student_roll_callE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/5/student_roll_callA" beforeDir="false" afterPath="$PROJECT_DIR$/data/5/student_roll_callA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/5/student_roll_callB" beforeDir="false" afterPath="$PROJECT_DIR$/data/5/student_roll_callB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/5/student_roll_callC" beforeDir="false" afterPath="$PROJECT_DIR$/data/5/student_roll_callC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/5/student_roll_callD" beforeDir="false" afterPath="$PROJECT_DIR$/data/5/student_roll_callD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/5/student_roll_callE" beforeDir="false" afterPath="$PROJECT_DIR$/data/5/student_roll_callE" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +50,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -28,8 +68,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -40,7 +82,7 @@
       <recent name="D:\OneDrive\桌面\结对作业\data\0" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.新建 文本文档">
+  <component name="RunManager" selected="Python.analysis">
     <configuration name="新建 文本文档" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,6 +97,28 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../新建 文本文档.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022-Second-Pairing-Assignment-in-Software-Engineering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,64 +149,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_student_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\pythonProject\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_student_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="student_attendance" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\python field\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student_attendance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="结对作业" />
+    <configuration name="build_class_student_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022-Second-Pairing-Assignment-in-Software-Engineering" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/build_class_student_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_student_attendance_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022-Second-Pairing-Assignment-in-Software-Engineering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/build_student_attendance_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.build_student_attendance_list" />
+        <item itemvalue="Python.build_class_student_list" />
         <item itemvalue="Python.新建 文本文档" />
         <item itemvalue="Python.analysis_attendance" />
-        <item itemvalue="Python.student_attendance" />
-        <item itemvalue="Python.class_student_list" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -175,16 +217,31 @@
       <workItem from="1665422420537" duration="183000" />
       <workItem from="1665422745445" duration="63000" />
       <workItem from="1665422869675" duration="173000" />
+      <workItem from="1665476540054" duration="1112000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$test.coverage" NAME="test 覆盖结果" MODIFIED="1665409885981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$student_attendance.coverage" NAME="student_attendance 覆盖结果" MODIFIED="1665422589744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2022_Second_Pairing_Assignment_in_Software_Engineering$build_student_attendance_list.coverage" NAME="build_student_attendance_list 覆盖结果" MODIFIED="1665477649508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/$analysis_attendance.coverage" NAME="analysis_attendance 覆盖结果" MODIFIED="1665422764634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2022_Second_Pairing_Assignment_in_Software_Engineering$analysis.coverage" NAME="analysis 覆盖结果" MODIFIED="1665477654847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/2022_Second_Pairing_Assignment_in_Software_Engineering$build_class_student_list.coverage" NAME="build_class_student_list 覆盖结果" MODIFIED="1665477647293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/$class_student_list.coverage" NAME="class_student_list 覆盖结果" MODIFIED="1665422583944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

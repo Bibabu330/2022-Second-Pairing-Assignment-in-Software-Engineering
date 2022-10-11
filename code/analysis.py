@@ -1,6 +1,7 @@
 from random import randint
 
 # 初始化参数
+count = 5
 student_num = 300
 class_num = 90
 student_message = [] # 全体学生信息 300*(学号 绩点 职务)
@@ -36,7 +37,7 @@ def ReadTotalStudent():
 
 # 读单门课学生名单: 学号 成绩 职务
 def ReadClassStudent(Cla):
-    with open("../data/1/Class_student{}".format(Cla), "r") as f:
+    with open("../data/" + str(count) + "/Class_student{}".format(Cla), "r") as f:
         data = f.readlines()
     
     i1 = 0
@@ -56,7 +57,7 @@ def ReadClassStudent(Cla):
 
 # 读出勤名单: 学号 20次出勤信息 (0为缺课,1为到位)
 def ReadStudentAttendance(Cla):
-    with open("../data/1/student_attendance{}".format(Cla), "r") as f:
+    with open("../data/" + str(count) + "/student_attendance{}".format(Cla), "r") as f:
         data = f.readlines()
 
     class_attendance = [] # 课程学生名单
@@ -302,7 +303,7 @@ if __name__ == "__main__":
     sum_roll_call = sum_roll_callA + sum_roll_callB + sum_roll_callC + sum_roll_callD + sum_roll_callE
 
     # 输出五门课20次点名名单
-    fp = open("../data/1/student_roll_callA", "w")
+    fp = open("../data/" + str(count) + "/student_roll_callA", "w")
     for i in range(len(roll_call_listA)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
         for j in range(len(roll_call_listA[i])):
@@ -312,7 +313,7 @@ if __name__ == "__main__":
 
     print("courseA roll call list build successfully")
 
-    fp = open("../data/1/student_roll_callB", "w")
+    fp = open("../data/" + str(count) + "/student_roll_callB", "w")
     for i in range(len(roll_call_listA)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
         for j in range(len(roll_call_listA[i])):
@@ -322,7 +323,7 @@ if __name__ == "__main__":
 
     print("courseB roll call list build successfully")
 
-    fp = open("../data/1/student_roll_callC", "w")
+    fp = open("../data/" + str(count) + "/student_roll_callC", "w")
     for i in range(len(roll_call_listA)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
         for j in range(len(roll_call_listA[i])):
@@ -332,7 +333,7 @@ if __name__ == "__main__":
 
     print("courseC roll call list build successfully")
 
-    fp = open("../data/1/student_roll_callD", "w")
+    fp = open("../data/" + str(count) + "/student_roll_callD", "w")
     for i in range(len(roll_call_listA)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
         for j in range(len(roll_call_listA[i])):
@@ -342,7 +343,7 @@ if __name__ == "__main__":
 
     print("courseD roll call list build successfully")
 
-    fp = open("../data/1/student_roll_callE", "w")
+    fp = open("../data/" + str(count) + "/student_roll_callE", "w")
     for i in range(len(roll_call_listA)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
         for j in range(len(roll_call_listA[i])):
