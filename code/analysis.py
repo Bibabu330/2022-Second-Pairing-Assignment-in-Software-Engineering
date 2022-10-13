@@ -314,40 +314,40 @@ if __name__ == "__main__":
     print("courseA roll call list build successfully")
 
     fp = open("../data/" + str(count) + "/student_roll_callB", "w")
-    for i in range(len(roll_call_listA)):
+    for i in range(len(roll_call_listB)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
-        for j in range(len(roll_call_listA[i])):
-            fp.write(str(class_studentA[roll_call_listA[i][j]][0]) + ' ')
+        for j in range(len(roll_call_listB[i])):
+            fp.write(str(class_studentB[roll_call_listB[i][j]][0]) + ' ')
         fp.write("\n\n\n")
     fp.close()
 
     print("courseB roll call list build successfully")
 
     fp = open("../data/" + str(count) + "/student_roll_callC", "w")
-    for i in range(len(roll_call_listA)):
+    for i in range(len(roll_call_listC)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
-        for j in range(len(roll_call_listA[i])):
-            fp.write(str(class_studentA[roll_call_listA[i][j]][0]) + ' ')
+        for j in range(len(roll_call_listC[i])):
+            fp.write(str(class_studentC[roll_call_listC[i][j]][0]) + ' ')
         fp.write("\n\n\n")
     fp.close()
 
     print("courseC roll call list build successfully")
 
     fp = open("../data/" + str(count) + "/student_roll_callD", "w")
-    for i in range(len(roll_call_listA)):
+    for i in range(len(roll_call_listD)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
-        for j in range(len(roll_call_listA[i])):
-            fp.write(str(class_studentA[roll_call_listA[i][j]][0]) + ' ')
+        for j in range(len(roll_call_listD[i])):
+            fp.write(str(class_studentD[roll_call_listD[i][j]][0]) + ' ')
         fp.write("\n\n\n")
     fp.close()
 
     print("courseD roll call list build successfully")
 
     fp = open("../data/" + str(count) + "/student_roll_callE", "w")
-    for i in range(len(roll_call_listA)):
+    for i in range(len(roll_call_listE)):
         fp.write("courseA No.{} roll call list".format(i) + "\n")
-        for j in range(len(roll_call_listA[i])):
-            fp.write(str(class_studentA[roll_call_listA[i][j]][0]) + ' ')
+        for j in range(len(roll_call_listE[i])):
+            fp.write(str(class_studentE[roll_call_listE[i][j]][0]) + ' ')
         fp.write("\n\n\n")
     fp.close()
 
