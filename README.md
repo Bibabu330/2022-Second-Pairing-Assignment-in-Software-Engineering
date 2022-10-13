@@ -17,15 +17,18 @@
    > Class_studentC  
    > Class_studentD  
    > Class_studentE
+   
 - 执行`build_sdudent_attendance.py`文件，`data`目录下生成五门课程所有学生20次课的出勤文件
-    > student_attendanceA
-  > student_attendanceB
-  > student_attendanceC
-  > student_attendanceD
-  > student_attendanceE
+    > student_attendanceA  
+  > student_attendanceB  
+  > student_attendanceC  
+  > student_attendanceD  
+  > student_attendanceE  
+  
 - 最后执行`analysis.py`文件，`data`目录下生成五门课程的点名名单文件，同时终端输出运行结果 —— E值
-    > student_roll_callA
-  > student_roll_callB
-  > student_roll_callC
-  > student_roll_callD
-  > student_roll_callE
+    > student_roll_callA  
+  > student_roll_callB  
+  > student_roll_callC  
+  > student_roll_callD  
+  > student_roll_callE  
+  
